@@ -1,0 +1,2 @@
+The result of train set:Loss:0.66612;Accuracy:0.55000;Precision:0.83333;Recall:0.14085;F1 score:0.24096;AUC:0.72872;PRC:0.74460.
+The result of test set:Loss:0.76241;Accuracy:0.45000;Precision:0.00000;Recall:0.00000;F1 score:0.00000;AUC:0.28500;PRC:0.36838.

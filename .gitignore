@@ -1,0 +1,12 @@
+# Ambientes Virtuais (se estiverem dentro da pasta do projeto)
+.conda/
+venv/
+env/
+
+# Datasets, Imagens e Modelos
+*.csv
+*.h5
+*.pkl
+*.pt
+datasets/
+data/
